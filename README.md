@@ -1,4 +1,4 @@
 # hello-world
-CSE 360 Hello World git 
+CSE 360 Hello World git demo
 
 Enzo Vidigal
